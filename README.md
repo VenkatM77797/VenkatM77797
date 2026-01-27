@@ -3,49 +3,47 @@
 <h1 align="center">Hi 👋, I'm Venkat Mandarapu</h1>
 <h3 align="center">Python Developer | Data Analysis | Automation | SQL</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/venkat-mandarapu/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Venkat%20Mandarapu-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:venkatmandarapu7@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-venkatmandarapu7%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 - 🎓 Software Engineering / IT Graduate  
-- 🐍 Strong interest in **Python, Data Analysis, and Automation**
-- 📊 Experienced with **pandas, Excel, SQL, Power BI**
-- 🚀 Actively building beginner-to-intermediate **real-world projects**
-- 📚 Constantly learning and improving
+- 🐍 Interested in **Python, Data Analysis, and Automation**
+- 📊 Skills: **pandas, Excel, SQL, Power BI**
+- 🚀 Building real-world projects and improving daily
 
 ---
 
 ## 🛠️ Tech Stack
-
-### Programming & Data
-- Python
-- SQL
-- pandas
-- MS Excel
-- Power BI
-
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
+<p>
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
+- ✅ **Student Performance Analytics (Python + pandas)**  
+  https://github.com/VenkatM77797/student-performance-analytics
 
-### 🔹 Student Performance Data Validation and Analysis
-- Python-based project for validating and analyzing student assessment data
-- Implemented score validation, statistical analysis, and pass/fail insights
-- **Tech:** Python, pandas  
+- ✅ **Credit Card Budget Dashboard (Power BI)**  
+  https://github.com/VenkatM77797/Credit-Card-Budgetary-Dashboard
 
-🔗 Repo: https://github.com/VenkatM77797/student-performance-analytics
-
----
-
-### 🔹 Credit Card Budgetary Dashboard
-- Built an interactive Power BI dashboard to analyze credit card spending
-- Provided insights into monthly trends and category-wise expenses  
-
-🔗 Repo: https://github.com/VenkatM77797/Credit-Card-Budgetary-Dashboard
+- ✅ **Portfolio**  
+  https://github.com/VenkatM77797/portfolio
 
 ---
 
@@ -60,10 +58,13 @@
 
 ---
 
-## 📫 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/venkat-mandarapu/
-- 🧑‍💻 GitHub: https://github.com/VenkatM77797
+## 🔥 Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VenkatM77797&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ *I believe in consistent learning and building practical projects to grow as a developer.*
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/venkat-mandarapu/
+- Email: venkatmandarapu7@gmail.com
