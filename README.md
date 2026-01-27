@@ -13,7 +13,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Software Engineering / IT Graduate  
+- 🎓 Software Engineering / Master of Science in IT Graduate  
 - 🐍 Interested in **Python, Data Analysis, and Automation**
 - 📊 Skills: **pandas, Excel, SQL, Power BI**
 - 🚀 Building real-world projects and improving daily
