@@ -1,111 +1,68 @@
-<div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Venkat Mandarapu</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-
-<p align='center'>
-   <a href="https://www.linkedin.com/in/venkat-mandarapu/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/venkat77797"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
- </p>
-
-
-
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Venkat Mandarapu | 💻 Entry-Level Data Analyst | 🛸 USA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
-
-
+<h1 align="center">Hi 👋, I'm Venkat Mandarapu</h1>
+<h3 align="center">Python Developer | Data Analysis | Automation | SQL</h3>
 
 <p align="center">
-   <a href="https://twitter.com/venkat77797"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/venkat_77797?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@venkat_77797"></a>
-   <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
- </p>
- 
- <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
-  </h5>
- 
- 
-<br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-<p align="center">
-  <h3> I'm 27 years old Data Analyst from USA</h3>
-</p>
-
-- 🌱 Learning and building with **Python & Data Analytics**
-  
-- <i>Working with Python, pandas, SQL, Excel, Power BI, and related tools.</i>
-  
-- 📊 Interested in **Data Analysis, Automation, and Problem Solving**
-  
-- 🧠 Enjoy working with real-world datasets and turning data into insights
-  
-- 💻 Entry-level **Python / Data / Software enthusiast**, always improving
-  
-- 🌱 Focused on consistency, learning, and building practical projects
-  
-- 💬 Connect with me 👉🏼 [LinkedIn](https://www.linkedin.com/in/venkat-mandarapu/)
-  
-<p align="center">
-  <h4> Python | Data Analysis | Automation </h4>
-</p>
-
-<!--  -->
-
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+  <a href="https://www.linkedin.com/in/venkat-mandarapu/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Venkat%20Mandarapu-blue?style=for-the-badge&logo=linkedin">
   </a>
-
+  <a href="mailto:venkatmandarapu7@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-venkatmandarapu7%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
-<br />
+---
 
-### - Languages and Tools...
+## 🧑‍💻 About Me
+- 🎓 Software Engineering / IT Graduate  
+- 🐍 Interested in **Python, Data Analysis, and Automation**
+- 📊 Skills: **pandas, Excel, SQL, Power BI**
+- 🚀 Building real-world projects and improving daily
+
+---
+
+## 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## 📌 Featured Projects
+- ✅ **Student Performance Analytics (Python + pandas)**  
+  https://github.com/VenkatM77797/student-performance-analytics
+
+- ✅ **Credit Card Budget Dashboard (Power BI)**  
+  https://github.com/VenkatM77797/Credit-Card-Budgetary-Dashboard
+
+- ✅ **Portfolio**  
+  https://github.com/VenkatM77797/portfolio
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VenkatM77797&show_icons=true&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkatM77797&layout=compact&theme=tokyonight" />
 </p>
 
+---
 
-
- ### - What i do
-
-
-<br />
-
+## 🔥 Streak
 <p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
-   
-   
-<br />
-
-<h2 align="center">🤝 Support</h2>
-
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-<p align="center">Made with ❤️ in USA</p>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://streak-stats.demolab.com?user=VenkatM77797&theme=tokyonight" />
 </p>
 
+---
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/venkat-mandarapu/
+- Email: venkatmandarapu7@gmail.com
