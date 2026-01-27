@@ -16,7 +16,7 @@
 
 
 <p align="center">
-   <a href="https://twitter.com/venkat77797"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_venkat_77797?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_venkat_77797"></a>
+   <a href="https://twitter.com/venkat77797"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/venkat_77797?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@venkat_77797"></a>
    <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
    <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
  </p>
