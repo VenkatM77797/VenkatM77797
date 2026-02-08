@@ -34,14 +34,19 @@
 ---
 
 ## 📌 Featured Projects
+- ✅ **Portfolio**  
+  https://github.com/VenkatM77797/venkatm77797.github.io
+  
 - ✅ **Student Performance Analytics (Python + pandas)**  
   https://github.com/VenkatM77797/student-performance-analytics
+
+- ✅ **ATS Resume Screening (Python + pandas)**  
+  https://github.com/VenkatM77797/resume-screening-level6
 
 - ✅ **Credit Card Budget Dashboard (Power BI)**  
   https://github.com/VenkatM77797/Credit-Card-Budgetary-Dashboard
 
-- ✅ **Portfolio**  
-  https://github.com/VenkatM77797/portfolio
+
 
 ---
 
