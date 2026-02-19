@@ -54,7 +54,8 @@
 
 ---
 ## 📈 GitHub Stats
-<img src="https://streak-stats.demolab.com?user=VenkatM77797&theme=tokyonight" />
+<img src="https://YOUR-VERCEL-APP.vercel.app/api?username=VenkatM77797&show_icons=true&theme=tokyonight" />
+<img src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=VenkatM77797&layout=compact&theme=tokyonight" />
 
 ---
 
