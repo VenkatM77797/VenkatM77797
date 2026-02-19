@@ -29,6 +29,10 @@
   <img src="https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi" />
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+
 </p>
 
 ---
