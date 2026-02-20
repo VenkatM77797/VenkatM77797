@@ -32,6 +32,11 @@
   <img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode" />
+<img src="https://img.shields.io/badge/Streamlit-000?style=for-the-badge&logo=streamlit" />
+<img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=matplotlib" />
+<img src="https://img.shields.io/badge/Scikit--learn-000?style=for-the-badge&logo=scikit-learn" />
 
 </p>
 
