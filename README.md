@@ -21,7 +21,6 @@
 ---
 
 ## 🛠️ Tech Stack
-<p>
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas" />
   <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql" />
@@ -40,7 +39,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-</p>
+
 
 ---
 
