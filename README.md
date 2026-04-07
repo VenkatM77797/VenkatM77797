@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode" />
 <img src="https://img.shields.io/badge/Streamlit-000?style=for-the-badge&logo=streamlit" />
 <img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=matplotlib" />
   <img src="https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-000?style=for-the-badge&logo=scikit-learn" />
