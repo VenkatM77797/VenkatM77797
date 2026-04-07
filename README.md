@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel" />
   <img src="https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
