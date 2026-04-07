@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=matplotlib" />
 <img src="https://img.shields.io/badge/Scikit--learn-000?style=for-the-badge&logo=scikit-learn" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </p>
 
