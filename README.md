@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkat Mandarapu</h1>
-<h3 align="center">Python Developer | Data Analysis | Automation | SQL</h3>
+<h3 align="center">Software Developer | Data Analysis | Automation | SQL</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venkat-mandarapu/">
