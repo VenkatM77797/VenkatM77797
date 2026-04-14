@@ -24,6 +24,13 @@
 
 ---
 
+## 🏆 Highlights
+- 🚀 Built full-stack and data analytics projects  
+- 📊 Developed dashboards for real-world insights  
+- ⚡ Strong focus on scalable backend and clean UI
+
+---
+
 ## 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
