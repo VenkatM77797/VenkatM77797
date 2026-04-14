@@ -48,19 +48,19 @@
   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode" />
-<img src="https://img.shields.io/badge/Streamlit-000?style=for-the-badge&logo=streamlit" />
-<img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Streamlit-000?style=for-the-badge&logo=streamlit" />
+  <img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy" />
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=matplotlib" />
+  <img src="https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=matplotlib" />
   <img src="https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-000?style=for-the-badge&logo=scikit-learn" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-<img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
-<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-<img src="	https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/Scikit--learn-000?style=for-the-badge&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="	https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 
 
 
@@ -84,7 +84,8 @@ Features: Data analysis, trend detection, performance insights
 
 ---
 
-🤖 QuickServe – Restaurant Management System (Full Stack) React + NestJS + PostgreSQL 
+🤖 QuickServe – Restaurant Management System 
+(Full Stack) React + NestJS + PostgreSQL 
 Features: Order management, table handling, analytics dashboard 
 🔗 https://github.com/VenkatM77797/quickserve
 
