@@ -101,8 +101,6 @@ Features: Order management, table handling, analytics dashboard
 ## 💬 Let's Connect
 I'm open to opportunities in software development and data roles.  
 Feel free to connect or reach out!
-
-## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/venkat-mandarapu/
 - Email: venkatmandarapu7@gmail.com
 - Portfolio: https://venkatm77797.github.io/
