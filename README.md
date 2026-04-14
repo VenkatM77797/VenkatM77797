@@ -15,7 +15,7 @@
 ## 🧑‍💻 About Me
 - 🎓 Software Engineering / Master of Science in IT Graduate  
 - 🐍 Interested in **Python, Data Analysis, and Automation**
-- 📊 Skills: **pandas, Excel, SQL, Power BI, matplotlib**
+- 📊 Skills: **pandas,, SQL, Nest.js, JavaScript, React**
 - 🚀 Building real-world projects and improving daily
 
 ---
