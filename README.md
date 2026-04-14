@@ -94,7 +94,9 @@ Features: Order management, table handling, analytics dashboard
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VenkatM77797&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
+## 🏆 Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=VenkatM77797&theme=tokyonight)
+<img src="https://profile-counter.glitch.me/VenkatM77797/count.svg" />
 ---
 
 ## 🔥 Streak
