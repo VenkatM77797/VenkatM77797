@@ -88,6 +88,9 @@
 </p>
 
 ---
+## 💬 Let's Connect
+I'm open to opportunities in software development and data roles.  
+Feel free to connect or reach out!
 
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/venkat-mandarapu/
