@@ -91,6 +91,11 @@ Features: Order management, table handling, analytics dashboard
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VenkatM77797&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
 
 ## 🔥 Streak
 <p align="center">
