@@ -69,8 +69,10 @@
 - ✅ **ATS Resume Screening (Python + pandas)**  
   https://github.com/VenkatM77797/resume-screening-level6
 
-- ✅ **Credit Card Budget Dashboard (Power BI)**  
-  https://github.com/VenkatM77797/Credit-Card-Budgetary-Dashboard
+- - 🚀 **QuickServe – Restaurant Management System (Full Stack)**  
+  React + NestJS + PostgreSQL  
+  Features: Order management, table handling, analytics dashboard  
+  https://github.com/VenkatM77797/quickserve
 
 ---
 
