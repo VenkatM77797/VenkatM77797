@@ -76,7 +76,10 @@
 
 ---
 ## 📈 GitHub Stats
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VenkatM77797&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VenkatM77797&show_icons=true&theme=tokyonight" alt="Venkat's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkatM77797&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
 ---
 
 
