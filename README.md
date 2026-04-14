@@ -84,9 +84,9 @@ Features: Data analysis, trend detection, performance insights
 
 ---
 
-🤖 QuickServe – Restaurant Management System 
-(Full Stack) React + NestJS + PostgreSQL 
-Features: Order management, table handling, analytics dashboard 
+🚀 QuickServe – Restaurant Management System (Full Stack)  
+React + NestJS + PostgreSQL  
+Features: Order management, table handling, analytics dashboard  
 🔗 https://github.com/VenkatM77797/quickserve
 
 ---
