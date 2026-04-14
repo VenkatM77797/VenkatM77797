@@ -70,14 +70,22 @@
 ---
 
 ## 📌 Featured Projects
-- ✅ **Portfolio**  
-  https://github.com/VenkatM77797/venkatm77797.github.io
-  
-- ✅ **Student Performance Analytics (Python + pandas)**  
-  https://github.com/VenkatM77797/student-performance-analytics
 
-- ✅ **ATS Resume Screening (Python + pandas)**  
-  https://github.com/VenkatM77797/resume-screening-level6
+### 🌐 Portfolio Website  
+A personal portfolio showcasing my projects, skills, and experience  
+🔗 [View Project](https://github.com/VenkatM77797/venkatm77797.github.io)
+
+---
+
+### 📊 Student Performance Analytics  
+Analyzed student performance data using pandas to identify trends and insights  
+🔗 [View Project](https://github.com/VenkatM77797/student-performance-analytics)
+
+---
+
+### 🤖 ATS Resume Screening System  
+Built an automated resume screening system using Python and pandas for efficient candidate filtering  
+🔗 [View Project](https://github.com/VenkatM77797/resume-screening-level6)
 
 - - 🚀 **QuickServe – Restaurant Management System (Full Stack)**  
   React + NestJS + PostgreSQL  
