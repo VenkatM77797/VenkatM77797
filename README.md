@@ -8,7 +8,11 @@
   <a href="mailto:venkatmandarapu7@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-venkatmandarapu7%40gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
+  <a href="https://venkatm77797.github.io/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome">
+  </a>
 </p>
+
 
 ---
 
