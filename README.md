@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkat Mandarapu</h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Data+Analyst;Automation+Enthusiast&center=true&width=500&height=50">
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;React+%7C+NestJS+%7C+PostgreSQL;Data+Analysis+%7C+Automation;Building+Real+World+Projects&center=true&width=600&height=50">
 </p>
 
 <p align="center">
