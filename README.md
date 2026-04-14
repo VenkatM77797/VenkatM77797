@@ -77,8 +77,8 @@
 
 ---
 ## 📈 GitHub Stats
-<img src="https://YOUR-VERCEL-APP.vercel.app/api?username=VenkatM77797&show_icons=true&theme=tokyonight" />
-<img src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=VenkatM77797&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=VenkatM77797&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkatM77797&layout=compact&theme=tokyonight" />
 
 ---
 
