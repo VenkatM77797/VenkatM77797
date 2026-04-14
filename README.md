@@ -72,14 +72,6 @@
 - ✅ **Credit Card Budget Dashboard (Power BI)**  
   https://github.com/VenkatM77797/Credit-Card-Budgetary-Dashboard
 
-
-
----
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VenkatM77797&show_icons=true&theme=tokyonight" alt="Venkat's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkatM77797&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
 ---
 
 
