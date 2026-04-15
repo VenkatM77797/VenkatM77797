@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkat Mandarapu</h1>
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;React+%7C+NestJS+%7C+PostgreSQL;Data+Analysis+%7C+Automation;&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;React+%7C+NodeJS+%7C+PostgreSQL;Data+Analysis+%7C+Automation;&center=true&width=600&height=50">
   <h2 align="center">Building real-world full-stack apps & data-driven solutions 🚀</h2>
 </p>
 
