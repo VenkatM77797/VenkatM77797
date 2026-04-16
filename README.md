@@ -2,7 +2,7 @@
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;React+%7C+NodeJS+%7C+PostgreSQL;Data+Analysis+%7C+Automation;&center=true&width=600&height=50">
   <h2 align="center">Building real-world full-stack apps & data-driven solutions 🚀</h2>
-</p>dsvvjvbw vjnjvwennjewnvvwejvjcwencecjewnvjen
+</p>dsvvjvbw vjnjvwennjewn
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venkat-mandarapu/">
