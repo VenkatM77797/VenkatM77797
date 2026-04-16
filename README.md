@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/venkat-mancncnkkndarapu/">
+  <a href="https://www.linkedin.com/in/venkat-mandarapu/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Venkat%20Mandarapu-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:venkatmandarapu7@gmail.com">
