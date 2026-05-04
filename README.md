@@ -4,7 +4,6 @@
   <h2 align="center">Building real-world full-stack apps & data-driven solutions 🚀</h2>
 </p>
 
-=====
 <p align="center">
   <a href="https://www.linkedin.com/in/venkat-mandarapu/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Venkat%20Mandarapu-blue?style=for-the-badge&logo=linkedin">
