@@ -13,6 +13,9 @@
   <a href="https://venkatm77797.github.io/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome">
   </a>
+ <a href="https://codepen.io/venkatm77797"">
+    <img alt="Codepen" src="https://img.shields.io/badge/CodePen-View-000000?style=for-the-badge&logo=codepen&logoColor=white">
+  </a>
 </p>
 
 
