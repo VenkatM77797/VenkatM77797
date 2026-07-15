@@ -16,6 +16,9 @@
  <a href="https://codepen.io/venkatm77797"">
     <img alt="Codepen" src="https://img.shields.io/badge/CodePen-View-000000?style=for-the-badge&logo=codepen&logoColor=white">
   </a>
+ <a href="https://leetcode.com/venkat77797" target="_blank">
+  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-View-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
 </p>
 
 ---
