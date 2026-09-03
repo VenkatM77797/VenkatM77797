@@ -19,6 +19,10 @@
  <a href="https://leetcode.com/venkat77797" target="_blank">
   <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-View-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VenkatM77797&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/VenkatM77797?label=Followers&style=flat" alt="GitHub Followers" />
+</p>
 </p>
 
 <p align="left">
